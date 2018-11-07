@@ -55,6 +55,13 @@
     "width": 604,
     "height": 604
     },
+  "Trio2": {
+    "name": "Trio2.png",
+    "x": 2171, 
+    "y": 2687, 
+    "width": 583,
+    "height": 252 
+    },
   "gz": {
     "name": "gz.png",
     "x": -3185,
