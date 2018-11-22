@@ -26,6 +26,13 @@
     "y": -3393,
     "width": 655,
     "height": 396
+   },
+   "mlprussia": {
+    "name": "mlprussia.png",
+    "x": 2018,
+    "y": 1094,
+    "width": 1024,
+    "height": 723
    }, 
   "The Empire": {
     "name": "the_empire.png",
