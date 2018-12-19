@@ -13,6 +13,13 @@
     "width": 301,
     "height": 557 
 },
+  "wm": {
+    "name": "wm.png",
+    "x": 2733,
+    "y": -4096,
+    "width": 1363,
+    "height": 635 
+},
   "azrm": {
     "name": "azrm.png",
     "x": 1719,
