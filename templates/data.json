@@ -13,6 +13,13 @@
     "width": 301,
     "height": 557 
 },
+  "biaw": {
+    "name": "biaw.png",
+    "x": 1929,
+    "y": 3640,
+    "width": 106,
+    "height": 22
+},
   "sistema": {
     "name": "sistema.png",
     "x": 729,
@@ -33,6 +40,20 @@
     "y": -3461,
     "width": 326,
     "height": 30 
+},
+  "edu": {
+    "name": "edu.png",
+    "x": 3379,
+    "y": 2927,
+    "width": 83,
+    "height": 83
+},
+  "grifo": {
+    "name": "grifo.png",
+    "x": 1859,
+    "y": 3728,
+    "width": 118,
+    "height": 119
 },
   "azrm": {
     "name": "azrm.png",
