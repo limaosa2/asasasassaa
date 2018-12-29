@@ -27,12 +27,33 @@
     "width": 510,
     "height": 248 
 },
+  "sistema": {
+    "name": "sistema.png",
+    "x": 729,
+    "y": -3430,
+    "width": 510,
+    "height": 248 
+},
+  "GREB": {
+    "name": "GREB.png",
+    "x": 3083,
+    "y": 2636,
+    "width": 197,
+    "height": 188 
+},
   "wm": {
     "name": "wm.png",
     "x": -273,
     "y": 1728,
     "width": 1363,
     "height": 635 
+},
+  "PoliciaS": {
+    "name": "PoliciaS.png",
+    "x": 3415,
+    "y": 2057,
+    "width": 128,
+    "height": 128 
 },
   "Anarchy": {
     "name": "Anarchy.png",
