@@ -34,6 +34,13 @@
     "width": 1363,
     "height": 635 
 },
+  "Anarchy": {
+    "name": "Anarchy.png",
+    "x": 3268,
+    "y": 2790,
+    "width": 160,
+    "height": 81
+},
   "dswm": {
     "name": "dswm.png",
     "x": 3417,
