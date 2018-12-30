@@ -13,6 +13,13 @@
     "width": 301,
     "height": 557 
 },
+  "pda": {
+    "name": "pda.png",
+    "x": 1685,
+    "y": 3400,
+    "width": 272,
+    "height": 121 
+},
   "biaw": {
     "name": "biaw.png",
     "x": 1929,
