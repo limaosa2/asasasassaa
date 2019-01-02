@@ -6,12 +6,26 @@
     "width": 1268,
     "height": 724
    },
+  "imperial": {
+    "name": "imperial.png",
+    "x": 1463,
+    "y": 2591,
+    "width": 301,
+    "height": 557 
+},
+  "gatobr": {
+    "name": "gatobr.png",
+    "x": 3022,
+    "y": 2922,
+    "width": 178,
+    "height": 88 
+},
   "Obs": {
     "name": "Obs.png",
     "x": 1848,
     "y": 3084,
-    "width": 301,
-    "height": 557 
+    "width": 708,
+    "height": 423 
 },
   "pda": {
     "name": "pda.png",
