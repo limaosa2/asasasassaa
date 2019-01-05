@@ -27,6 +27,13 @@
     "width": 197,
     "height": 188 
 },
+  "blanka": {
+    "name": "blanka.png",
+    "x": 3013,
+    "y": 2808,
+    "width": 132,
+    "height": 115 
+},
   "wvvp": {
     "name": "wvvp.png",
     "x": 1443,
