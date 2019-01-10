@@ -20,12 +20,26 @@
     "width": 178,
     "height": 88 
 },
+  "KarinSultan": {
+    "name": "KarinSultan.png",
+    "x": 307,
+    "y": -904,
+    "width": 204,
+    "height": 200 
+},
   "GREB": {
     "name": "GREB.png",
     "x": 3083,
     "y": 2636,
     "width": 197,
     "height": 188 
+},
+   "workshop": {
+    "name": "workshop.png",
+    "x": 2273,
+    "y": 195,
+    "width": 201
+    "height": 132    
 },
   "blanka": {
     "name": "blanka.png",
