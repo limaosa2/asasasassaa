@@ -343,6 +343,13 @@
     "width": 57,
     "height": 16 
  },
+"glimmer": {
+    "name": "glimmer.png",
+    "x": 3380,
+    "y": 1002,
+    "width": 106,
+    "height": 104 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
