@@ -322,6 +322,27 @@
     "width": 169,
     "height": 105 
  },
+"fronteira": {
+    "name": "fronteira.png",
+    "x": 2950,
+    "y": 2659,
+    "width": 101,
+    "height": 66 
+ },
+"ancapg": {
+    "name": "ancapg.png",
+    "x": 2208,
+    "y": 588,
+    "width": 49,
+    "height": 31 
+ },
+"Capturar": {
+    "name": "Capturar.png",
+    "x": 3015,
+    "y": 2792,
+    "width": 57,
+    "height": 16 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
