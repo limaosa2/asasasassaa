@@ -20,12 +20,12 @@
     "width": 178,
     "height": 88 
 },
-  "test1": {
-    "name": "test1.png",
-    "x": 307,
-    "y": -904,
-    "width": 204,
-    "height": 200 
+  "redflag": {
+    "name": "redflag.png",
+    "x": 2809,
+    "y": 2707,
+    "width": 66,
+    "height": 38 
     
 },
   "GREB": {
