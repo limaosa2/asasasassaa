@@ -84,20 +84,6 @@
     "width": 510,
     "height": 248 
 },
-  "sistema": {
-    "name": "sistema.png",
-    "x": 729,
-    "y": -3430,
-    "width": 510,
-    "height": 248 
-},
-  "GREB": {
-    "name": "GREB.png",
-    "x": 3083,
-    "y": 2636,
-    "width": 197,
-    "height": 188 
-},
   "wm": {
     "name": "wm.png",
     "x": -273,
@@ -209,13 +195,6 @@
     "y": 1220,
     "width": 177,
     "height": 173
-  },
-  "Flag": {
-    "name": "Flag.png",
-    "x": 1971,
-    "y": 1489,
-    "width": 303,
-    "height": 214
   },
 "flupx": {
     "name": "flupx.png",
@@ -364,8 +343,8 @@
     "width": 92,
     "height": 86 
  },
-"tut": {
-    "name": "tut.png",
+"tute": {
+    "name": "tute.png",
     "x": 1420,
     "y": 3802,
     "width": 164,
