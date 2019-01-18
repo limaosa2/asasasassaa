@@ -371,6 +371,13 @@
     "width": 96,
     "height": 52 
  },
+"ypika": {
+    "name": "ypika.png",
+    "x": 854,
+    "y": 3803,
+    "width": 151,
+    "height": 97 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
