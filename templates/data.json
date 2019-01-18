@@ -135,10 +135,10 @@
 },
   "grifo": {
     "name": "grifo.png",
-    "x": 1859,
-    "y": 3728,
-    "width": 118,
-    "height": 119
+    "x": 1829,
+    "y": 3724,
+    "width": 178,
+    "height": 127
 },
   "azrm": {
     "name": "azrm.png",
@@ -356,6 +356,20 @@
     "y": 2716,
     "width": 77,
     "height": 83 
+ },
+  "dcborda": {
+    "name": "dcborda.png",
+    "x": 718,
+    "y": 3012,
+    "width": 92,
+    "height": 86 
+ },
+"tut: {
+    "name": "tut.png",
+    "x": 1420,
+    "y": 3802,
+    "width": 164,
+    "height": 160 
  },
   "gz": {
     "name": "gz.png",
