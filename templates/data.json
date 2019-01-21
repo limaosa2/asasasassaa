@@ -385,6 +385,13 @@
     "width": 237,
     "height": 287 
  },
+"spbart": {
+    "name": "spbart.png",
+    "x": 1137,
+    "y": 9593,
+    "width": 48,
+    "height": 77 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
