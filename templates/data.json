@@ -392,6 +392,13 @@
     "width": 48,
     "height": 77 
  },
+"ponytown": {
+    "name": "ponytown.png",
+    "x": 3576,
+    "y": 1134,
+    "width": 281,
+    "height": 67 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
