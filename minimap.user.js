@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Vascopixel Minimap
+// @name         FireForce
 // @namespace    http://tampermonkey.net/
 // @version      1.2.4
 // @description  VP Minimap Zone
