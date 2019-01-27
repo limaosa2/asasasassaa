@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FireForce
 // @namespace    http://tampermonkey.net/
-// @version      1.2.4
+// @version      1.2.5
 // @description  VP Minimap Zone
 // @author       ConsoleBey#9737
 // @match        https://pixelzone.io/*
