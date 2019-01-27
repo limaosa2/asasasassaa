@@ -2,13 +2,13 @@
 // @name         FireForce
 // @namespace    http://tampermonkey.net/
 // @version      1.2.5
-// @description  VP Minimap Zone
-// @author       ConsoleBey#9737
+// @description  FIRE FORCE
+// @author       TUDO BEM
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Vasco-Pixel/mz
-// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
+// @homepage     https://github.com/yTopMan/FireForce
+// @updateURL    https://raw.githubusercontent.com/yTopMan/FireForce/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/yTopMan/FireForce/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
