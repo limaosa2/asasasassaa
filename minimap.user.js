@@ -6,7 +6,7 @@
 // @author       TUDO BEM
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/yTopMan/FireForce
+// @homepage     https://github.com/zTopMan/FireForce
 // @updateURL    https://raw.githubusercontent.com/zTopMan/FireForce/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/zTopMan/FireForce/master/minimap.user.js
 // @grant        none
