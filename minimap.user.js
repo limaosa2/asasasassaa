@@ -40,7 +40,7 @@ window.addEventListener('load', function () {
     zoomlevel = 9;
     //toggle options
     toggle_show = true;
-    toggle_follow = true; //if minimap is following window, x_window = x and y_window = y;
+     toggle_follow = true; //if minimap is following window, x_window = x and y_window = y;
     zooming_in = false;
     zooming_out = false;
     zoom_time = 100;
@@ -81,6 +81,7 @@ window.addEventListener('load', function () {
     ctx_minimap = minimap.getContext("2d");
     ctx_minimap_board = minimap_board.getContext("2d");
     ctx_minimap_cursor = minimap_cursor.getContext("2d");
+
 
     //No Antialiasing when scaling!
     ctx_minimap.mozImageSmoothingEnabled = false;
