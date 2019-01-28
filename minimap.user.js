@@ -40,7 +40,7 @@ window.addEventListener('load', function () {
     zoomlevel = 9;
     //toggle options
     toggle_show = true;
-     toggle_follow = true; //if minimap is following window, x_window = x and y_window = y;
+    toggle_follow = true; //if minimap is following window, x_window = x and y_window = y;
     zooming_in = false;
     zooming_out = false;
     zoom_time = 100;
@@ -52,7 +52,9 @@ window.addEventListener('load', function () {
     //Cachebreaker to force refresh
     cachebreaker = null;
 
-   var div = document.createElement('div');
+vers = "Arstotzka";
+
+    var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
     div.innerHTML = '<style>.grecaptcha-badge{display: none;}</style>   <div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
 '<div class="posy" id="posyt" style="background-size: 100%; background-image: url(https://imgur.com/8rmVmFp); color: rgb(255, 255, 255); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 12px; padding: 10px;">' +
@@ -82,7 +84,6 @@ window.addEventListener('load', function () {
     ctx_minimap_board = minimap_board.getContext("2d");
     ctx_minimap_cursor = minimap_cursor.getContext("2d");
 
-
     //No Antialiasing when scaling!
     ctx_minimap.mozImageSmoothingEnabled = false;
     ctx_minimap.webkitImageSmoothingEnabled = false;
@@ -98,7 +99,7 @@ window.addEventListener('load', function () {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "Mostrar Minimapa";
+        document.getElementById("minimap-text").innerHTML = "Show";
         document.getElementById("minimap-text").style.cursor = "pointer";
     };
     document.getElementById("minimap-text").onclick = function () {
@@ -126,7 +127,8 @@ window.addEventListener('load', function () {
     }, false);
     document.getElementById("zoom-minus").addEventListener('mouseup', function (e) {
         zooming_out = false;
-    }, false); 
+    }, false);
+
     gameWindow = document.getElementById("canvas");
     gameWindow.addEventListener('mouseup', function (evt) {
         if (!toggle_show)
@@ -197,7 +199,7 @@ function toggleShow() {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "Mostrar Minimap";
+        document.getElementById("minimap-text").innerHTML = "Show Minimap";
         document.getElementById("minimapbg").onclick = function () {
             toggleShow()
         };
@@ -272,7 +274,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "Não tem nada aqui.";
+            document.getElementById("minimap-text").innerHTML = "No templates here.";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
