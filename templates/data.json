@@ -407,7 +407,7 @@
     "height": 71 
  },
   "Unicornio": {
-    "name": "Unicornio_MAP_1.png",
+    "name": "uni.png",
     "x": 121,
     "y": 3895,
     "width": 68,
@@ -423,8 +423,8 @@
     },
   "patrick": {
     "name": "pat.png",
-    "x": -236,
-    "y": -3904,
+    "x": 236,
+    "y": 3904,
     "width": 70,
     "height": 103
 
