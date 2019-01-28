@@ -7,8 +7,8 @@
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/yTopMan/FireForce
-// @updateURL    https://raw.githubusercontent.com/yTopMan/FireForce/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/yTopMan/FireForce/master/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/zTopMan/FireForce/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/zTopMan/FireForce/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/yTopMan/FireForce/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zTopMan/FireForce/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
