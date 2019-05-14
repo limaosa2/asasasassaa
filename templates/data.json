@@ -478,7 +478,16 @@
     "height": 95
       
        },
-    "template": {
+    "aquapool": {
+    "name": "aquapool.png",
+    "x": 3789,
+    "y": 2136,
+    "width": 29,
+    "height": 49
+      
+     
+},
+       "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
