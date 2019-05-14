@@ -443,7 +443,27 @@
     "y": 2269,
     "width": 118,
     "height": 216
-
+    
+    "UniGrande": {
+    "name": "uni certo.png",
+    "x": 3683,
+    "y": 2576,
+    "width": 68,
+    "height": 102
+    
+    "patrick": {
+    "name": "pat.png",
+    "x": 3843,
+    "y": 2694,
+    "width": 70,
+    "height": 103
+    
+       "template": {
+    "name": "nomeDaTemplate.png",
+    "x": 1,
+    "y": 1,
+    "width": 1,
+    "height": 1
 
 
    }
