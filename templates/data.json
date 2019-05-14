@@ -459,8 +459,25 @@
     "y": 2694,
     "width": 70,
     "height": 103
+      
+      },
+    "country1": {
+    "name": "23.png",
+    "x": 3946,
+    "y": 2628,
+    "width": 100,
+    "height": 128
+
     
       },
+    "Cpuntry2": {
+    "name": "country2.png",
+    "x": 3562,
+    "y": 2611,
+    "width": 128,
+    "height": 95
+      
+       },
     "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
