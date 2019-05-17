@@ -487,6 +487,14 @@
       
      
 },
+       "Letreiro": {
+    "name": "letreiro.png",
+    "x": 3773,
+    "y": 2498,
+    "width": 226,
+    "height": 64
+         
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
