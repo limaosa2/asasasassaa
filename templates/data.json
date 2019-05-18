@@ -495,12 +495,21 @@
     "height": 64
          
          },
+       "sans": {
+    "name": "sans.png",
+    "x": 3924,
+    "y": 2799,
+    "width": 23,
+    "height": 26
+         
+          },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
     "width": 1,
     "height": 1
+
 
 
    }
