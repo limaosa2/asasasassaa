@@ -503,6 +503,22 @@
     "height": 27
          
           },
+       "alface": {
+    "name": "Trequinho azul.png",
+    "x": 3874,
+    "y": 2815,
+    "width": 22,
+    "height": 19
+         
+         },
+       "hominho": {
+    "name": "homoazul.png",
+    "x": 4057,
+    "y": 2683,
+    "width": 17,
+    "height": 25
+         
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
