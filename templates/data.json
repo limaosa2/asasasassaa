@@ -519,6 +519,14 @@
     "height": 25
          
          },
+       "flowey": {
+    "name": "flowey.png",
+    "x": 3823,
+    "y": 2618,
+    "width": 46,
+    "height": 48
+         
+           },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
