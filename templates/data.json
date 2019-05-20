@@ -519,12 +519,21 @@
     "height": 48
          
            },
+       "dima": {
+    "name": "dima.png",
+    "x": 3975,
+    "y": 2882,
+    "width": 12,
+    "height": 13
+         
+          },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
     "width": 1,
     "height": 1
+
 
 
 
