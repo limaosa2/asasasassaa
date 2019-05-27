@@ -527,6 +527,15 @@
     "height": 13
          
           },
+       "flagAQUA": {
+    "name": "flag.png",
+    "x": 3280,
+    "y": 2633,
+    "width": 254,
+    "height": 126
+         
+         
+          },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
