@@ -533,7 +533,15 @@
     "y": 2633,
     "width": 254,
     "height": 126
-         
+        
+
+           },
+       "flag2": {
+    "name": "flag2.png",
+    "x": 3611,
+    "y": 2399,
+    "width": 102,
+    "height": 55
          
           },
        "template": {
@@ -542,7 +550,6 @@
     "y": 1,
     "width": 1,
     "height": 1
-
 
 
 
