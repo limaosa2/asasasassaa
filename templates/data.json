@@ -164,6 +164,7 @@
     "y": 2127,
     "width": 257,
     "height": 331
+         
         },
        "AquaBase1": {
     "name": "aquabase.png",
@@ -171,6 +172,7 @@
     "y": 2814,
     "width": 245,
     "height": 119
+         
         },
        "template": {
     "name": "nomeDaTemplate.png",
