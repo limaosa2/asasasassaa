@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Vascopixel Minimap
+// @name         AquaForce
 // @namespace    http://tampermonkey.net/
 // @version      1.2.4
-// @description  VP Minimap Zone
+// @description  
 // @author       ConsoleBey#9737
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Vasco-Pixel/mz
+// @homepage     https://github.com/yTopman/testmini
 // @updateURL    https://raw.githubusercontent.com/yTopMan/testmini/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/yTopMan/testmini/master/minimap.user.js
 // @grant        none
