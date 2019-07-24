@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         aquatest
 // @namespace    http://tampermonkey.net/
-// @version      1.2.4
-// @description  VP Minimap Zone
-// @author       ConsoleBey#9737
+// @version      1
+// @description  
+// @author       
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Vasco-Pixel/mz
+// @homepage     https://github.com/zTopMan/testenovo
 // @updateURL    https://raw.githubusercontent.com/zTopMan/testenovo/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/zTopMan/testenovo/master/minimap.user.js
 // @grant        none
