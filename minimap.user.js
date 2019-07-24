@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         AquaForce
+// @name         FireForce
 // @namespace    http://tampermonkey.net/
-// @version      1.2.4
-// @description  
-// @author       ConsoleBey#9737
+// @version      1.2.5
+// @description  FIRE FORCE
+// @author       TUDO BEM
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/yTopman/testmini
-// @updateURL    https://raw.githubusercontent.com/yTopMan/testmini/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/yTopMan/testmini/master/minimap.user.js
+// @homepage     https://github.com/zTopMan/FireForce
+// @updateURL    https://raw.githubusercontent.com/zTopMan/testemini/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/zTopMan/testemini/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/yTopMan/testmini/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zTopMan/testmini/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
@@ -54,16 +54,16 @@ window.addEventListener('load', function () {
 
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
-    div.innerHTML = '<div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
-        '<div class="posy" id="posyt" style="background-color: rgba(0, 0, 0, 0.75); color: rgb(250, 250, 250); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
+    div.innerHTML = '<style>.grecaptcha-badge{display: none;}</style>   <div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
+'<div class="posy" id="posyt" style="background-size: 100%; background-image: url(https://imgur.com/8rmVmFp); color: rgb(255, 255, 255); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 12px; padding: 10px;">' +
         '<div id="minimap-text" style="display: none;"></div>' +
         '<div id="minimap-box" style="position: relative;width:420px;height:300px">' +
         '<canvas id="minimap" style="width: 100%; height: 100%;z-index:1;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-board" style="width: 100%; height: 100%;z-index:2;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-cursor" style="width: 100%; height: 100%;z-index:3;position:absolute;top:0;left:0;"></canvas>' +
         '</div><div id="minimap-config" style="line-height:20px;">' +
-        '<span id="hide-map" style="cursor:pointer;"> Minimizar' +
-        '</span> | <span id="follow-mouse" style="cursor:pointer;"Seguir o mouse' +
+        '<span id="hide-map" style="cursor:pointer;">Hide Minimap' +
+        '</span> | <span id="follow-mouse" style="cursor:pointer;"Follow mouse' +
         '</span> | Zoom: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">+</span>  /  ' +
         '<span id="zoom-minus" style="cursor:pointer;font-weight:bold;">-</span>' +
         '</div>' +
@@ -97,7 +97,7 @@ window.addEventListener('load', function () {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "Mostrar Minimapa";
+        document.getElementById("minimap-text").innerHTML = "Show";
         document.getElementById("minimap-text").style.cursor = "pointer";
     };
     document.getElementById("minimap-text").onclick = function () {
@@ -125,7 +125,8 @@ window.addEventListener('load', function () {
     }, false);
     document.getElementById("zoom-minus").addEventListener('mouseup', function (e) {
         zooming_out = false;
-    }, false); 
+    }, false);
+
     gameWindow = document.getElementById("canvas");
     gameWindow.addEventListener('mouseup', function (evt) {
         if (!toggle_show)
@@ -196,7 +197,7 @@ function toggleShow() {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "Mostrar Minimap";
+        document.getElementById("minimap-text").innerHTML = "Show Minimap";
         document.getElementById("minimapbg").onclick = function () {
             toggleShow()
         };
@@ -271,7 +272,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "Não tem nada aqui.";
+            document.getElementById("minimap-text").innerHTML = "No templates here.";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
