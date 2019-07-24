@@ -4,29 +4,30 @@
     "x": 1848,
     "y": 3084,
     "width": 708,
-    "height": 423},
-  
+    "height": 423    
+},
   "Trio2": {
     "name": "Trio2.png",
     "x": 2171, 
     "y": 2687, 
     "width": 583,
-    "height": 252},
-  
+    "height": 252   
+ },
   "fire_force": {
     "name": "fire_force.png",
     "x": 111,
     "y": 4018,
     "width": 100,
-    "height": 71},
-  
+    "height": 71 
+ },
   "Unicornio": {
     "name": "u2ni.png",
     "x": 121,
     "y": 3895,
     "width": 68,
-    "height": 102}
-  ,
+    "height": 102
+    
+    },
   "patrick": {
     "name": "pat.png",
     "x": 236,
