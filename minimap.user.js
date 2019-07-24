@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zTopMan/testenovo/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/zTopMan/AquaMap/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
