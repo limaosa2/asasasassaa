@@ -544,6 +544,13 @@
     "height": 55
          
           },
+       "discordAF": {
+    "name": "discordAFtr.png",
+    "x": 3320,
+    "y": 2597,
+    "width": 138,
+    "height": 15
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
