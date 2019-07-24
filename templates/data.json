@@ -158,13 +158,19 @@
     "width": 138,
     "height": 15
          },
+       "AquaBase2": {
+    "name": "base2.png",
+    "x": 3838,
+    "y": 2127,
+    "width": 257,
+    "height": 331
+        },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
     "width": 1,
     "height": 1
-
 
 
    }
