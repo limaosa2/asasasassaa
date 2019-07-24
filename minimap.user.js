@@ -2,8 +2,8 @@
 // @name         AquaMINIMAP
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  
-// @author       
+// @description  1
+// @author       1
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/zTopMan/testenovo
