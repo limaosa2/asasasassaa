@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         aquatest
+// @name         AquaMINIMAP
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  
