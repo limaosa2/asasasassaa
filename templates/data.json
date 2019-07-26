@@ -197,12 +197,12 @@
     "width": 60,
     "height": 60
 	  },
-       "bill2": {
-    "name": "billconv.png",
-    "x": 3319,
-    "y": 2264,
-    "width": 68,
-    "height": 60
+       "Tentaculo XD": {
+    "name": "AF_tentaculo.png",
+    "x": 3882,
+    "y": 2132,
+    "width": 97,
+    "height": 90
 	
 	 },
        "template": {
