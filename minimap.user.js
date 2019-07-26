@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         AquaMap 2.0
+// @name         AquaMINIMAP
 // @namespace    http://tampermonkey.net/
-// @version      2.0.1
-// @description  discord.io/aquaforce
-// @author       Marvin - Editado por bill
+// @version      1
+// @description  1
+// @author       1
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/zTopMan/AquaMap
@@ -55,14 +55,14 @@ window.addEventListener('load', function () {
     var div = document.createElement('div');
     div.setAttribute('class', 'post block bc2');
     div.innerHTML = '<div id="minimapbg" style="position: absolute; right: 1em; bottom: 1em;">' +
-        '<div class="posy" id="posyt" style="background-color: rgba(0, 0, 230); color: rgb(0, 230, 230); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
+        '<div class="posy" id="posyt" style="background-color: rgba(0, 0, 0, 0.75); color: rgb(250, 250, 250); text-align: center; line-height: 42px; vertical-align: middle; width: auto; height: auto; border-radius: 21px; padding: 6px;">' +
         '<div id="minimap-text" style="display: none;"></div>' +
         '<div id="minimap-box" style="position: relative;width:420px;height:300px">' +
         '<canvas id="minimap" style="width: 100%; height: 100%;z-index:1;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-board" style="width: 100%; height: 100%;z-index:2;position:absolute;top:0;left:0;"></canvas>' +
         '<canvas id="minimap-cursor" style="width: 100%; height: 100%;z-index:3;position:absolute;top:0;left:0;"></canvas>' +
         '</div><div id="minimap-config" style="line-height:20px;">' +
-        '<span id="hide-map" style="cursor:pointer;"> 𝐸𝓈𝒸𝑜𝓃𝒹𝑒𝓇 𝒜𝓆𝓊𝒶𝑀𝒶𝓅' +
+        '<span id="hide-map" style="cursor:pointer;"> Minimizar' +
         '</span> | <span id="follow-mouse" style="cursor:pointer;"Seguir o mouse' +
         '</span> | Zoom: <span id="zoom-plus" style="cursor:pointer;font-weight:bold;">+</span>  /  ' +
         '<span id="zoom-minus" style="cursor:pointer;font-weight:bold;">-</span>' +
@@ -97,7 +97,7 @@ window.addEventListener('load', function () {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "- 𝐸𝒳𝐼𝐵𝐼𝑅 𝒜𝒬𝒰𝒜𝑀𝒜𝒫 -";
+        document.getElementById("minimap-text").innerHTML = "Mostrar Minimapa";
         document.getElementById("minimap-text").style.cursor = "pointer";
     };
     document.getElementById("minimap-text").onclick = function () {
@@ -196,7 +196,7 @@ function toggleShow() {
         document.getElementById("minimap-box").style.display = "none";
         document.getElementById("minimap-config").style.display = "none";
         document.getElementById("minimap-text").style.display = "block";
-        document.getElementById("minimap-text").innerHTML = "- 𝐸𝒳𝐼𝐵𝐼𝑅 𝒜𝒬𝒰𝒜𝑀𝒜𝒫 -";
+        document.getElementById("minimap-text").innerHTML = "Mostrar Minimap";
         document.getElementById("minimapbg").onclick = function () {
             toggleShow()
         };
