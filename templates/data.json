@@ -192,6 +192,15 @@
 	
 
           },
+       "aquelebonecocomacaraestranha": {
+    "name": "bixin.png",
+    "x": 3601,
+	"y": 2486,
+    "width": 60,
+    "height": 60
+	
+	
+	 },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
