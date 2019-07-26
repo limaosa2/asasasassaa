@@ -182,6 +182,16 @@
     "height": 176
          
           },
+       "simbolobill": {
+    "name": "EDU.png",
+    "x": 3799,
+    "y": 2690,
+    "width": 29,
+    "height": 47
+	
+	
+
+          },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
