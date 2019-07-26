@@ -188,8 +188,6 @@
     "y": 2690,
     "width": 29,
     "height": 47
-	
-	
 
           },
        "aquelebonecocomacaraestranha": {
@@ -207,6 +205,15 @@
     "y": 1,
     "width": 1,
     "height": 1
+
+	 },
+       "bill2": {
+    "name": "billconv.png",
+    "x": 3319,
+    "y": 2264,
+    "width": 68,
+    "height": 60
+
 
    }
 }
