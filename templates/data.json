@@ -196,7 +196,13 @@
 	"y": 2486,
     "width": 60,
     "height": 60
-	
+	  },
+       "bill2": {
+    "name": "billconv.png",
+    "x": 3319,
+    "y": 2264,
+    "width": 68,
+    "height": 60
 	
 	 },
        "template": {
@@ -205,14 +211,6 @@
     "y": 1,
     "width": 1,
     "height": 1
-
-	 },
-       "bill2": {
-    "name": "billconv.png",
-    "x": 3319,
-    "y": 2264,
-    "width": 68,
-    "height": 60
 
 
    }
