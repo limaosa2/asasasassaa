@@ -203,14 +203,6 @@
     "y": 2132,
     "width": 97,
     "height": 90
-	
-	 },
-       "BrasilAF": {
-    "name": "BrasilAFtr.png",
-    "x": 3980,
-    "y": 2231,
-    "width": 164,
-    "height": 176
          },
        "template": {
     "name": "nomeDaTemplate.png",
