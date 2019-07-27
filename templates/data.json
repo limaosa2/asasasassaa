@@ -204,13 +204,19 @@
     "width": 97,
     "height": 90
          },
+       "fenixAF": {
+    "name": "FenixAF.png",
+    "x": 3535,
+    "y": 2457,
+    "width": 123,
+    "height": 79
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
     "width": 1,
     "height": 1
-
 
    }
 }
