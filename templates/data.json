@@ -211,12 +211,20 @@
     "width": 123,
     "height": 79
          },
+       "baseGERAL": {
+    "name": "baseTESTE.png",
+    "x": 3533,
+    "y": 2455,
+    "width": 561,
+    "height": 488
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
     "width": 1,
     "height": 1
+
 
    }
 }
