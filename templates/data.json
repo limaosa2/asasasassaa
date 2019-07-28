@@ -20,7 +20,7 @@
     "width": 100,
     "height": 71 
  },
-  "Unicornio": {
+  "Unicornioff": {
     "name": "u2ni.png",
     "x": 121,
     "y": 3895,
@@ -90,15 +90,9 @@
     "width": 128,
     "height": 176
 
-          },
-       "aquelebonecocomacaraestranha": {
-    "name": "bixin.png",
-    "x": 3601,
-	"y": 2486,
-    "width": 60,
-    "height": 60
+      
 	  },
-       "Tentaculo XD": {
+       "TentaculoXD": {
     "name": "AF_tentaculo.png",
     "x": 3882,
     "y": 2132,
