@@ -26,15 +26,6 @@
     "y": 3895,
     "width": 68,
     "height": 102
-    
-    },
-  "patrick": {
-    "name": "pat.png",
-    "x": 236,
-    "y": 3904,
-    "width": 72,
-    "height": 105
-    
      },
   "marvin": {
     "name": "eu.png",
@@ -50,40 +41,7 @@
     "y": 2269,
     "width": 118,
     "height": 216
-    
-     },
-    "UniGrande": {
-    "name": "uni certo.png",
-    "x": 3683,
-    "y": 2576,
-    "width": 68,
-    "height": 102
-    
-     },
-    "patrick": {
-    "name": "pat.png",
-    "x": 3843,
-    "y": 2694,
-    "width": 70,
-    "height": 103
-      
-      },
-    "country1": {
-    "name": "23.png",
-    "x": 3946,
-    "y": 2628,
-    "width": 100,
-    "height": 128
 
-    
-      },
-    "Country2": {
-    "name": "country2.png",
-    "x": 3542,
-    "y": 2556,
-    "width": 128,
-    "height": 95
-      
        },
     "aquapool": {
     "name": "aquapool.png",
@@ -91,48 +49,7 @@
     "y": 2136,
     "width": 29,
     "height": 49
-      
-     
-},
-       "Letreiro": {
-    "name": "letreiro.png",
-    "x": 3773,
-    "y": 2498,
-    "width": 226,
-    "height": 64
-        
-          },
-       "alface": {
-    "name": "Trequinho azul.png",
-    "x": 3874,
-    "y": 2815,
-    "width": 22,
-    "height": 19
-         
-         },
-       "hominho": {
-    "name": "homoazul.png",
-    "x": 4057,
-    "y": 2683,
-    "width": 17,
-    "height": 25
-         
-         },
-       "flowey": {
-    "name": "flowey.png",
-    "x": 3823,
-    "y": 2618,
-    "width": 46,
-    "height": 48
-         
-           },
-       "dima": {
-    "name": "dima.png",
-    "x": 3975,
-    "y": 2882,
-    "width": 12,
-    "height": 13
-         
+
           },
        "flagAQUA": {
     "name": "flag.png",
@@ -164,15 +81,7 @@
     "y": 2127,
     "width": 257,
     "height": 331
-         
-        },
-       "AquaBase1": {
-    "name": "aquabase.png",
-    "x": 3688,
-    "y": 2814,
-    "width": 245,
-    "height": 119
-         
+
         },
        "brasaoaqua": {
     "name": "brasao.png",
@@ -180,14 +89,6 @@
     "y": 2312,
     "width": 128,
     "height": 176
-         
-          },
-       "simbolobill": {
-    "name": "EDU.png",
-    "x": 3799,
-    "y": 2690,
-    "width": 29,
-    "height": 47
 
           },
        "aquelebonecocomacaraestranha": {
@@ -203,8 +104,21 @@
     "y": 2132,
     "width": 97,
     "height": 90
-	
-	 },
+         },
+       "fenixAF": {
+    "name": "FenixAF.png",
+    "x": 3934,
+    "y": 2251,
+    "width": 123,
+    "height": 79
+         },
+       "baseGERAL": {
+    "name": "baseTESTE.png",
+    "x": 3533,
+    "y": 2455,
+    "width": 561,
+    "height": 488
+         },
        "template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
