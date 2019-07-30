@@ -114,6 +114,14 @@
     "height": 80
 	
        },
+	"espalhador": {
+    "name": "espalhador.png",
+    "x": 3380,
+    "y": 2538,
+    "width": 92,
+    "height": 95
+	
+	 },
 	"template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
