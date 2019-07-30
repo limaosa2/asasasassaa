@@ -113,7 +113,14 @@
     "width": 561,
     "height": 488
          },
-       "template": {
+       "Marvin": {
+    "name": "euazul.png",
+    "x": 3845,
+    "y": 2196,
+    "width": 68,
+    "height": 80
+	
+	"template": {
     "name": "nomeDaTemplate.png",
     "x": 1,
     "y": 1,
