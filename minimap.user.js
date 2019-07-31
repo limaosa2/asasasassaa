@@ -6,7 +6,9 @@
 // @author       1
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-
+// @updateURL    https://raw.githubusercontent.com/zTopMan/AquaMap/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/zTopMan/AquaMap/master/minimap.user.js
+// @grant        none
 
 
 
