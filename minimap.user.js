@@ -6,11 +6,7 @@
 // @author       1
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/zTopMan/asasasassaa
-// @updateURL    https://raw.githubusercontent.com/zTopMan/asasasassaa/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/zTopMan/asasasassaa/master/minimap.user.js
-// @grant        none
-// ==/UserScript==
+
 
 var a = ['aW5uZXJIdG1s',
     'Ym90Y2FudmFz',
