@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AquaMINIMAP
+// @name         tas
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  1
