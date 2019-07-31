@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         tas
 // @namespace    http://tampermonkey.net/
-// @version      1
-// @description  1
-// @author       1
+// @version      1.00.0.0
+// @description  none
+// @author       none
 // @match        https://pixelzone.io/*
-// @match        http://pixelzone.io/*
-// @updateURL    https://raw.githubusercontent.com/zTopMan/AquaMap/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/zTopMan/AquaMap/master/minimap.user.js
+// @homepage     none
 // @grant        none
+// ==/UserScript==
 
 
 
