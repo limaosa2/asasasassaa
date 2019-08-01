@@ -1,7 +1,7 @@
   {"comment": "",
 	},
 	
-	},
+	{
   "groot grandão da aqua": {
     "name": "template grande certa.png",
     "x": 3729,
@@ -108,5 +108,5 @@
     "width": 1,
     "height": 1
 
-}
+	}
 }
