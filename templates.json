@@ -1,7 +1,5 @@
-  {"comment": "",
-	},
-	
-	{
+  { "comment": "",
+
   "groot": {
     "name": "groot.png",
     "x": 3729,
@@ -100,6 +98,22 @@
     "y": 2353,
     "width": 141,
     "height": 83
+	    
+	    },
+    "fenix": {
+    "name": "FenixAF.png",
+    "x": 3934,
+    "y": 2251,
+    "width": 123,
+    "height": 79
+	    
+	    },
+    "marvin": {
+    "name": "euazul.png",
+    "x": 3845,
+    "y": 2196,
+    "width": 69,
+    "height": 80
 	
 	},
     "template": {
