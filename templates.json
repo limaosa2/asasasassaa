@@ -34,8 +34,8 @@
     "name": "pat.png",
     "x": 3843,
     "y": 2694,
-    "width": 70,
-    "height": 103
+    "width": 72,
+    "height": 105
 
 },
     "country1": {
@@ -80,10 +80,10 @@
 },
     "aquapool": {
     "name": "aquapool.png",
-    "x": 3932,
-    "y": 2353,
-    "width": 83,
-    "height": 141
+    "x": 3798,
+    "y": 2136,
+    "width": 29,
+    "height": 49
 	
 	},
     "unipequenoeunstreco": {
