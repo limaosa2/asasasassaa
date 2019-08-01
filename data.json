@@ -1,6 +1,46 @@
-{ "comment": "",
+{
+  "Obs": {
+    "name": "Obs.png",
+    "x": 1848,
+    "y": 3084,
+    "width": 708,
+    "height": 423    
+},
+  "Trio2": {
+    "name": "Trio2.png",
+    "x": 2171, 
+    "y": 2687, 
+    "width": 583,
+    "height": 252   
+ },
+  "fire_force": {
+    "name": "fire_force.png",
+    "x": 111,
+    "y": 4018,
+    "width": 100,
+    "height": 71 
+ },
+  "Unicornioff": {
+    "name": "u2ni.png",
+    "x": 121,
+    "y": 3895,
+    "width": 68,
+    "height": 102
      },
-
+  "marvin": {
+    "name": "eu.png",
+    "x": 199,
+    "y": 4000,
+    "width": 128,
+    "height": 103
+    
+     },
+  "groot grandão da aqua": {
+    "name": "template grande certa.png",
+    "x": 3729,
+    "y": 2269,
+    "width": 118,
+    "height": 216
 
        },
     "aquapool": {
@@ -34,7 +74,14 @@
     "y": 2618,
     "width": 138,
     "height": 15
-         
+         },
+       "AquaBase2": {
+    "name": "base21.png",
+    "x": 3838,
+    "y": 2127,
+    "width": 257,
+    "height": 331
+
         },
        "brasaoaqua": {
     "name": "brasao.png",
@@ -42,6 +89,7 @@
     "y": 2312,
     "width": 128,
     "height": 176
+
       
          },
        "fenixAF": {
