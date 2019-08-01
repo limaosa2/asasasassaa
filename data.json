@@ -101,6 +101,14 @@
     "height": 46
 	
 	},
+    "1flag": {
+    "name": "flagpequena.png",
+    "x": 3932,
+    "y": 2353,
+    "width": 141,
+    "height": 83
+	
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1,
