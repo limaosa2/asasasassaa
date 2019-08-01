@@ -91,6 +91,22 @@
     "y": 2353,
     "width": 83,
     "height": 141
+	
+	},
+    "unipequenoeunstreco": {
+    "name": "aquabasesouni.png",
+    "x": 3782,
+    "y": 2832,
+    "width": 71,
+    "height": 46
+	
+	},
+    "template": {
+    "name": "nomedopng.png",
+    "x": 1,
+    "y": 1,
+    "width": 1,
+    "height": 1
 
 }
 }
