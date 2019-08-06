@@ -1,12 +1,7 @@
   { "comment": "",
 
-
-    "bixinvoid": {
-    "name": "bixinvoid.png",
-    "x": 3533, "y": 2458,
-    "width": 134, "height": 94 
 	
-	},
+
   "groot": {
     "name": "groot.png",
     "x": 3729,
@@ -121,13 +116,7 @@
     "y": 2196,
     "width": 69,
     "height": 80
-	},
-    "afvoid": {
-    "name": "voidAF2.png",
-    "x": 4040,
-    "y": 2470,
-    "width": 55,
-    "height": 136
+
 
 	},
     "espalhador": {
@@ -135,12 +124,17 @@
     "x": 3532, "y": 2296,
     "width": 92, "height": 95 
 
+},
+    "template": {
+    "name": "nomedopng.png",
+    "x": 1, "y": 1,
+    "width": 1, "height": 1
 	
 	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
-    "width": 1, "height": 1 
+    "width": 1, "height": 1
 
 	}
 }
