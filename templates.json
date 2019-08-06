@@ -114,7 +114,14 @@
     "y": 2196,
     "width": 69,
     "height": 80
-	
+	},
+    "afvoid": {
+    "name": "voidAF2.png",
+    "x": 4040,
+    "y": 2470,
+    "width": 55,
+    "height": 136
+
 	},
     "template": {
     "name": "nomedopng.png",
