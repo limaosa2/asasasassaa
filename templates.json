@@ -1,5 +1,12 @@
   { "comment": "",
 
+
+    "bixinvoid": {
+    "name": "bixinvoid.png",
+    "x": 3533 "y": 2453,
+    "width": 134, "height": 99 
+	
+	},
   "groot": {
     "name": "groot.png",
     "x": 3729,
@@ -128,11 +135,6 @@
     "x": 3532, "y": 2296,
     "width": 92, "height": 95 
 
-	},
-    "bixinvoid": {
-    "name": "bixinvoid.png",
-    "x": 3533 "y": 2453,
-    "width": 134, "height": 99 
 	
 	},
     "template": {
