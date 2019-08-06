@@ -131,6 +131,12 @@
     "width": 55, "height": 136
 	
 	},
+    "voidFENIX": {
+    "name": "voidFENIX.png",
+    "x": 3934, "y": 2251,
+    "width": 123, "height": 79
+	},
+
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
