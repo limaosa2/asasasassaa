@@ -137,6 +137,12 @@
     "width": 123, "height": 79
 	},
 
+    "Brasão": {
+    "name": "brasaoAF.png",
+    "x": 3350, "y": 2312,
+    "width": 128, "height": 176
+	},
+
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
