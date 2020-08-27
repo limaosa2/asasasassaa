@@ -149,16 +149,27 @@
     "width": 135, "height": 13
          },
     
-    "template": {
-    "name": "nomedopng.png",
-    "x": 1, "y": 1,
-    "width": 1, "height": 1
-    },
-   
     "hominho": {
     "name": "homoazul.png",
     "x": 4057, "y": 2683,
     "width": 17, "height": 25
 	    
+        "brasil": {
+    "name": "b2.2.png",
+    "x": 2518, "y": 3920,
+    "width": 137, "height": 75
+    },
+	
+       "brbill": {
+    "name": "brbill.png",
+    "x": 2249, "y": 3912,
+    "width": 127, "height": 161
+       },
+   
+            "template": {
+    "name": "nomedopng.png",
+    "x": 1, "y": 1,
+    "width": 1, "height": 1
+		    
 	}
 }
