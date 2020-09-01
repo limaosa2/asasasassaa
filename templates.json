@@ -1,75 +1,70 @@
   { "comment": "",
 
   "groot": {
-    "name": "groot.png",
+    "name": "groot_3729_2269.png",
     "x": 3729, "y": 2269,
     "width": 118, "height": 216
 },
        "flagAQUAGRANDE": {
-    "name": "flag.png",
+    "name": "flaggrande_3280_2633.png",
     "x": 3280, "y": 2633,
     "width": 254, "height": 126
 },
-       "flagpequena": {
-    "name": "flag2.png",
+       "flagcross": {
+    "name": "flagcross_3611_2399.png",
     "x": 3611, "y": 2399,
     "width": 102, "height": 55
  },
        "flowey": {
-    "name": "flowey.png",
+    "name": "flowey_3823_2618.png",
     "x": 3823, "y": 2618,
     "width": 46, "height": 48
 },
     "patrick": {
-    "name": "pat.png",
+    "name": "patrick_3843_2694.png",
     "x": 3843, "y": 2694,
     "width": 72, "height": 105
 
 },
     "country1": {
-    "name": "23.png",
+    "name": "country1_3946_2628.png",
     "x": 3946, "y": 2628,
     "width": 100, "height": 128
 
  },
-    "Country2": {
-    "name": "country2.png",
+    "country2": {
+    "name": "country2_3542_2556.png",
     "x": 3542, "y": 2556,
     "width": 128, "height": 95
 
 },
     "UNIGRANDE": {
-    "name": "uni.png",
+    "name": "unigrande_3683_2576.png",
     "x": 3683, "y": 2576,
     "width": 68, "height": 102
 
 },
     "letreiro": {
-    "name": "letreiro.png",
+    "name": "letreiro_3773_2498.png",
     "x": 3773, "y": 2498,
     "width": 226, "height": 64
 
 },
     "bixin": {
-    "name": "bixin.png",
+    "name": "bixin_3601_2486.png",
     "x": 3601, "y": 2486,
     "width": 60, "height": 60
 
 },
     "aquapool": {
-    "name": "aquapool.png",
+    "name": "aquapool_3798_2136.png",
     "x": 3798, "y": 2136,
     "width": 29, "height": 49
 	
-	},
-    "unipequenoeunstreco": {
-    "name": "aquabasesouni.png",
-    "x": 3782, "y": 2832,
-    "width": 71, "height": 46
 	
 	},
-    "1flag": {
-    "name": "flagpequena.png",
+    "flagpequena": {
+    "name": "flagpequena_3932_2354.png",
     "x": 3932, "y": 2354,
     "width": 141, "height": 83
 	    
@@ -88,7 +83,7 @@
 
 	},
     "espalhador": {
-    "name": "espalhador.png",
+    "name": "espalhador_3532_2296.png",
     "x": 3532, "y": 2296,
     "width": 92, "height": 95 
 
