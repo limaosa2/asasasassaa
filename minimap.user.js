@@ -5,8 +5,8 @@
 // @description  Only tested on Chrome
 // @author       meatie
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/meatie-se/pixel-minimap
-// @updateURL    https://raw.githubusercontent.com/limaosa2/asasasassaa/master/templates.json
+// @homepage     https://github.com/limaosa2/asasasassaa/
+// @updateURL    https://raw.githubusercontent.com/limaosa2/asasasassaa/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 /*Based on minimap: https://github.com/Pinkfloydd/ArgentinaMap_PixelZone
