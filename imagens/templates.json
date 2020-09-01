@@ -79,7 +79,12 @@
     "name": "marvin_3848_2200.png",
     "x": 3848, "y": 2200,
     "width": 69, "height": 80
-
+	
+	},
+    "marvin": {
+    "name": "marvinbr_2719_3993.png",
+    "x": 2719, "y": 3993,
+    "width": 69, "height": 80
 
 	},
     "espalhador": {
