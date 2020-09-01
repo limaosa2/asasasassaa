@@ -2,11 +2,11 @@
 // @name         aquabot v2
 // @namespace    http://tampermonkey.net/
 // @version      1.2.0
-// @description  Only tested on Chrome and Edge
+// @description  Only tested on Chrome
 // @author       meatie
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/limaosa2/asasasassaa/
-// @updateURL    https://raw.githubusercontent.com/limaosa2/asasasassaa/master/minimap.user.js
+// @homepage     https://github.com/meatie-se/pixel-minimap
+// @updateURL    https://raw.githubusercontent.com/limaosa2/asasasassaa/master/imagens/templates.json
 // @grant        none
 // ==/UserScript==
 /*Based on minimap: https://github.com/Pinkfloydd/ArgentinaMap_PixelZone
@@ -28,7 +28,7 @@ const circle_size = 5;
 var baseTemplateUrl = 'https://raw.githubusercontent.com/limaosa2/asasasassaa/master/imagens/';
 var baseTemplateBackup = baseTemplateUrl;
 
-vvar zoomlevel, zooming_out, zooming_in, zoom_time, x_world, y_world, centerx, centery;
+var zoomlevel, zooming_out, zooming_in, zoom_time, x_world, y_world, centerx, centery;
 var coorDOM, gameWindow;
 var toggle_show, counter, image_list, needed_templates, mousemoved;
 var minimap,  minimap_board, minimap_cursor, minimap_box, minimap_text;
