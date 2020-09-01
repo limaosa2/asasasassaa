@@ -5,11 +5,7 @@
 // @description  Only tested on Chrome and Edge
 // @author       meatie
 // @match        https://pixelzone.io/*
-<<<<<<< HEAD
-// @homepage     https://github.com/limaosa2/asasasassaa/master/
-=======
 // @homepage     https://github.com/limaosa2/asasasassaa/
->>>>>>> b5bd1e6370b23574d7d279d9c711ef8e5a71f30a
 // @updateURL    https://raw.githubusercontent.com/limaosa2/asasasassaa/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
@@ -32,7 +28,7 @@ const circle_size = 5;
 var baseTemplateUrl = 'https://raw.githubusercontent.com/limaosa2/asasasassaa/master/imagens/';
 var baseTemplateBackup = baseTemplateUrl;
 
-var zoomlevel, zooming_out, zooming_in, zoom_time, x_world, y_world, centerx, centery;
+vvar zoomlevel, zooming_out, zooming_in, zoom_time, x_world, y_world, centerx, centery;
 var coorDOM, gameWindow;
 var toggle_show, counter, image_list, needed_templates, mousemoved;
 var minimap,  minimap_board, minimap_cursor, minimap_box, minimap_text;
