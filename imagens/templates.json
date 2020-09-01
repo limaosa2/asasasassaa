@@ -87,6 +87,11 @@
     "x": 3532, "y": 2296,
     "width": 92, "height": 95 
 
+	},
+    "brasao": {
+    "name": "brasao_3350_2312.png",
+    "x": 3350, "y": 2312,
+    "width": 128, "height": 176
 	
 	},
     "template": {
