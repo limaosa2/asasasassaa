@@ -111,7 +111,7 @@
 	    
 	    },
     "marvin": {
-    "name": "euazul.png",
+    "name": "marvin_3845_2196.png",
     "x": 3845,
     "y": 2196,
     "width": 69,
@@ -171,6 +171,12 @@
     "name": "nomedopng.png",
     "x": 1, "y": 1,
     "width": 1, "height": 1
-		    
+        },
+   
+	      "template": {
+    "name": "nomedopng.png",
+    "x": 1, "y": 1,
+    "width": 1, "height": 1
+			    
 	}
 }
