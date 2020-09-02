@@ -1,0 +1,118 @@
+  { "comment": "",
+
+  "groot": {
+    "name": "groot_3729_2269.png",
+    "x": 3729, "y": 2269,
+    "width": 118, "height": 216
+},
+       "flagAQUAGRANDE": {
+    "name": "flaggrande_3280_2633.png",
+    "x": 3280, "y": 2633,
+    "width": 254, "height": 126
+},
+       "flagcross": {
+    "name": "flagcross_3611_2399.png",
+    "x": 3611, "y": 2399,
+    "width": 102, "height": 55
+ },
+       "flowey": {
+    "name": "flowey_3823_2618.png",
+    "x": 3823, "y": 2618,
+    "width": 46, "height": 48
+},
+    "patrick": {
+    "name": "patrick_3843_2694.png",
+    "x": 3843, "y": 2694,
+    "width": 72, "height": 105
+
+},
+    "country1": {
+    "name": "country1_3946_2628.png",
+    "x": 3946, "y": 2628,
+    "width": 100, "height": 128
+
+ },
+    "country2": {
+    "name": "country2_3542_2556.png",
+    "x": 3542, "y": 2556,
+    "width": 128, "height": 95
+
+},
+    "UNIGRANDE": {
+    "name": "unigrande_3683_2576.png",
+    "x": 3683, "y": 2576,
+    "width": 68, "height": 102
+
+},
+    "letreiro": {
+    "name": "letreiro_3773_2498.png",
+    "x": 3773, "y": 2498,
+    "width": 226, "height": 64
+
+},
+    "bixin": {
+    "name": "bixin_3601_2486.png",
+    "x": 3601, "y": 2486,
+    "width": 60, "height": 60
+
+},
+    "aquapool": {
+    "name": "aquapool_3798_2136.png",
+    "x": 3798, "y": 2136,
+    "width": 29, "height": 49
+	
+	
+	},
+    "flagpequena": {
+    "name": "flagpequena_3932_2354.png",
+    "x": 3932, "y": 2354,
+    "width": 141, "height": 83
+	    
+	    },
+    "fenix": {
+    "name": "fenix_3934_2251.png",
+    "x": 3934, "y": 2251,
+    "width": 123, "height": 79
+	    
+	    },
+    "marvin": {
+    "name": "marvin_3848_2200.png",
+    "x": 3848, "y": 2200,
+    "width": 69, "height": 80
+
+
+	},
+    "espalhador": {
+    "name": "espalhador_3532_2296.png",
+    "x": 3532, "y": 2296,
+    "width": 92, "height": 95 
+
+	},
+    "brasao": {
+    "name": "brasao_3350_2312.png",
+    "x": 3350, "y": 2312,
+    "width": 128, "height": 176
+	
+	},
+<<<<<<< HEAD
+    "voidbr": {
+    "name": "voidbr_2599_3792.png",
+    "x": 2599, "y": 3792,
+    "width": 253, "height": 116
+	
+		},
+=======
+    "bill 3": {
+    "name": "b3.png",
+    "x": 2518, "y": 3920,
+    "width": 137, "height": 75
+         },
+   
+>>>>>>> c5c1c43f0752e0ec40a96d3c38ed5420adf02008
+    "template": {
+    "name": "nomedopng.png",
+    "x": 1, "y": 1,
+    "width": 1, "height": 1
+ 
+	}
+}
