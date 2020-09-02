@@ -79,12 +79,7 @@
     "name": "marvin_3848_2200.png",
     "x": 3848, "y": 2200,
     "width": 69, "height": 80
-	
-	},
-    "marvinbr": {
-    "name": "marvinbr_2719_3993.png",
-    "x": 2719, "y": 3993,
-    "width": 69, "height": 80
+
 
 	},
     "espalhador": {
@@ -99,6 +94,12 @@
     "width": 128, "height": 176
 	
 	},
+    "voidbr": {
+    "name": "voidbr_2599_3792.png",
+    "x": 2599, "y": 3792,
+    "width": 253, "height": 116
+	
+		},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
