@@ -93,21 +93,18 @@
     "x": 3350, "y": 2312,
     "width": 128, "height": 176
 	
-	
+
 		},
     "bill 3": {
     "name": "b3.png",
     "x": 2518, "y": 3920,
     "width": 137, "height": 75
 	
-
- 
-	}
-         },
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
     "width": 1, "height": 1
- 
+
 	}
 }
