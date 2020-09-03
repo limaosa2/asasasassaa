@@ -111,6 +111,12 @@
     "name": "nomedopng.png",
     "x": 1, "y": 1,
     "width": 1, "height": 1
+    
+      	},
+    "Grande Bill": {
+    "name": "bill2.png",
+    "x": 321, "y": 3618,
+    "width": 260, "height": 320
 
 	}
 }
