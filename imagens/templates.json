@@ -107,16 +107,22 @@
     "width": 103, "height": 148
 	
 	},
-    "template": {
-    "name": "nomedopng.png",
-    "x": 1, "y": 1,
-    "width": 1, "height": 1
+    "letreirobr": {
+    "name": "letreirobr_2862_3478.png",
+    "x": 2862, "y": 3478,
+    "width": 558, "height": 191
     
       	},
     "Grande Bill": {
     "name": "bill2.png",
     "x": 447, "y": 839,
     "width": 260, "height": 320
+	
+	},
+    "template": {
+    "name": "nomedopng.png",
+    "x": 1, "y": 1,
+    "width": 1, "height": 1
 
 	}
 }
