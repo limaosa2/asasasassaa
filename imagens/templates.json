@@ -101,6 +101,12 @@
     "width": 137, "height": 75
 	
 	},
+    "voidbr2": {
+    "name": "voidbr.png",
+    "x": 2771, "y": 3101,
+    "width": 103, "height": 148
+	
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
