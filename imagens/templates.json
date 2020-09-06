@@ -95,9 +95,9 @@
 	
 
 		},
-    "bill 3": {
-    "name": "b3.png",
-    "x": 2518, "y": 3920,
+    "bill void": {
+    "name": "b2.2void.png",
+    "x": -365, "y": -387,
     "width": 137, "height": 75
 	
 	},
