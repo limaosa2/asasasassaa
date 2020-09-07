@@ -119,10 +119,18 @@
     "width": 260, "height": 320
 	
 	},
+    "gaster": {
+    "name": "gaster_1398_1220.png",
+    "x": 1398, "y": 1220,
+    "width": 168, "height": 153
+	
+	
+	},
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
     "width": 1, "height": 1
+
 
 	}
 }
