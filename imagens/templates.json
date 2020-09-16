@@ -126,11 +126,16 @@
 	
 	
 	},
+    "huedentor borda": {
+    "name": "bordahue_3534_2696.png",
+    "x": 3534, "y": 2696,
+    "width": 258, "height": 141
+       
+        },
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
-    "width": 1, "height": 1
-
+    "width": 1,
 
 	}
 }
