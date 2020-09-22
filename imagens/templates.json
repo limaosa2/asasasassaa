@@ -93,7 +93,6 @@
     "x": 3350, "y": 2312,
     "width": 128, "height": 176
 	
-
 		},
     "bill void": {
     "name": "b2.2void.png",
@@ -124,13 +123,17 @@
     "x": 1398, "y": 1220,
     "width": 168, "height": 153
 	
-	
 	},
+    "huedentor borda": {
+    "name": "bordahue_3534_2696.png",
+    "x": 3534, "y": 2696,
+    "width": 258, "height": 141
+       
+        },
     "template": {
     "name": "nomedopng.png",
     "x": 1, "y": 1,
-    "width": 1, "height": 1
-
+    "width": 1,
 
 	}
 }
